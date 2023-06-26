@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\MenezC02\OneDrive - Fortive\Área de Trabalho\AtividadesCG-main\M2\Exericio8\Origem.cpp(406,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Exericio8.vcxproj -> C:\Users\MenezC02\OneDrive - Fortive\Área de Trabalho\AtividadesCG-main\M2\Debug\Hello3D.exe
